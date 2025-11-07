@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Email Assistant",
+  "description": "An intelligent email assistant that drafts professional, context-aware replies using an FAQ knowledge base and conversation history. It helps users quickly generate accurate responses to incoming emails.",
+  "requestFramePermissions": []
+}
